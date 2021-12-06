@@ -1,0 +1,63 @@
+body {
+  margin: 50px 50px;
+  font-family: "Zen Kaku Gothic Antique", sans-serif;
+}
+
+a {
+  font-size: 22px;
+  font-style: italic;
+  color: #f7fbfc;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #f7fbfc;
+}
+
+.temperature-scale {
+  font-size: 22px;
+  font-style: italic;
+  color: #f7fbfc;
+  text-decoration: none;
+}
+
+.card-body {
+  background-color: #b9d7ea;
+  color: #2d4059;
+}
+
+.city {
+  font-size: 35px;
+}
+
+.date {
+  font-size: 15px;
+}
+
+.forecast {
+  font-size: 20px;
+  font-style: italic;
+  color: #f7fbfc;
+}
+
+.current-temperature {
+  font-size: 100px;
+  line-height: 1;
+}
+
+.fas {
+  font-size: 25px;
+  color: #f7fbfc;
+}
+
+.fas.current-weather-icon {
+  font-size: 50px;
+}
+
+.more-info {
+  font-size: 25px;
+}
+
+.week-forecast {
+  font-size: 21px;
+}
