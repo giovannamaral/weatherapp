@@ -3,17 +3,6 @@ body {
   font-family: "Zen Kaku Gothic Antique", sans-serif;
 }
 
-a {
-  font-size: 22px;
-  font-style: italic;
-  color: #f7fbfc;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #f7fbfc;
-}
-
 .temperature-scale {
   font-size: 22px;
   font-style: italic;
@@ -64,4 +53,9 @@ a:hover {
 
 .id {
   color: #b9d7ea;
+  text-decoration: none;
+}
+
+.id:hover {
+  color: #4091ee;
 }
